@@ -3,4 +3,4 @@
 
 'Hello World' display time object.
 
-Deployed at www.rowrow.io and/ot rowrow.io.
+Deployed at www.rowrow.io and/or rowrow.io.
