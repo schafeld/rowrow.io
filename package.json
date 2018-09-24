@@ -2,9 +2,11 @@
   "name": "get-started-node",
   "version": "0.1.0",
   "dependencies": {
-    "micro": "latest"
+    "express": "^4.16.3",
+    "vue": "^2.5.17",
+    "vue-server-renderer": "^2.5.17"
   },
   "scripts": {
-    "start": "micro"
+    "start": "node index.js"
   }
 }
