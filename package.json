@@ -1,6 +1,6 @@
 {
   "name": "get-started-node",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
     "express": "^4.16.3",
     "vue": "^2.5.17",
@@ -8,5 +8,9 @@
   },
   "scripts": {
     "start": "node index.js"
+  },
+  "now": {
+    "name": "rowrow",
+    "alias": "rowrow.io"
   }
 }

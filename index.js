@@ -20,7 +20,7 @@ server.get('*', (req, res) => {
       <html lang="en">
         <head><title>Hello Zeitgeist!</title></head>
         <body>
-          <h1>RowRowIo</h1>  
+          <h1>RowRowIo is on the Go!</h1>  
           ${html}
         </body>
       </html>
