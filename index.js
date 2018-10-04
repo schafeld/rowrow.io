@@ -22,6 +22,7 @@ server.get('*', (req, res) => {
         <body>
           <h1>RowRowIo is on the Go!</h1>  
           ${html}
+          <p>Actually, i have gone to Lisbon for some co-working... &#x1F642;</p>
         </body>
       </html>
     `)
