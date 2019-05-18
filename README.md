@@ -14,4 +14,4 @@ Zeit deployment is auto-aliased to domain ```rowrow.io``` through _package.json_
 ````
 Simply run ```now && now alias``` to deploy and alias in one step.
 
-Wow :)
+(changed to Zeit version 2 - work in progress...)

@@ -8,9 +8,5 @@
   },
   "scripts": {
     "start": "node index.js"
-  },
-  "now": {
-    "name": "rowrow",
-    "alias": "rowrow.io"
   }
 }

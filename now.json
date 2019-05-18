@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "name": "rowrow.io",
+  "builds": [{ "src": "index.js", "use": "@now/node-server" }],
+  "alias": ["rowrow.io", "www.rowrow.io"]
+}

@@ -18,11 +18,11 @@ server.get('*', (req, res) => {
     res.end(`
       <!DOCTYPE html>
       <html lang="en">
-        <head><title>Hello Zeitgeist!</title></head>
+        <head><title>RowRow.io</title></head>
         <body>
           <h1>RowRowIo is on the Go!</h1>  
           ${html}
-          <p>Actually, i have gone to Lisbon for some co-working... &#x1F642;</p>
+          <p>Nothing to see yet... &#x1F642;</p>
         </body>
       </html>
     `)
